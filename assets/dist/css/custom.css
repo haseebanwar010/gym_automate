@@ -1,0 +1,727 @@
+.customloginbody{
+    height: auto;
+}
+.customloginbody .login-box .adminloginbtn{
+    width: 100%;
+    margin-left: 0;
+}
+.login-box, .register-box {
+    width: 410px;
+    margin: 15% auto;
+}
+.attendencemessage{
+    display: none;
+}
+.customwidgeta a{
+    color: #000;
+}
+.dataTable a{
+    color: #000;
+}
+.dataTable img{
+    width: 50px;
+border-radius: 50%;
+height: 50px;
+}
+.alert-success{
+    border-left: 5px solid #00733e;
+}
+.overflowmodalbody .modal-body{
+    overflow: hidden;
+}
+
+.memberfilterwrapper{
+    text-align: center;
+}
+.memberfilterwrapper form input{
+    display: inline-block;
+float: left;
+width: 200px;
+}
+.memberfilterwrapper form button{
+    display: inline-block;
+float: right;
+margin-left: 10px;
+height: 34px;
+}
+.memberfilterwrapper form{
+    display: inline-block;
+    vertical-align: bottom;
+}
+.memberfilterwrapper select{
+    width: 200px;
+    vertical-align: top;
+    display: inline-block;
+}
+.addbtn{
+    float: right;
+}
+.btn-group a{
+    position: relative;
+    float: left;
+}
+.centerbtnsgroup{
+    border-radius: 0;
+}
+.firstbtngroup{
+    border-top-right-radius: 0;
+border-bottom-right-radius: 0;
+}
+.lastbtngroup{
+     border-top-left-radius: 0;
+border-bottom-left-radius: 0;
+}
+.advancememberoptions{
+    display: none;
+}
+.custompckg{
+    display: none;
+}
+.custompaymcr{}
+.custompaymcr label{
+    width: 100%;
+}
+.lblradio{
+    margin-right: 10px;
+    font-size:14px;
+}
+.btwor{
+    color: #72767c;
+    font-size: 16px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.mmaintabsingle{
+    width: 33%;
+    padding-right: 0px;
+}
+.twoselect{
+    width: 200px !important;
+}
+.datepicker{
+    border-radius: 0px !important;
+}
+.slideadvancedoptions span{
+    float: right;
+}
+.slideadvancedoptions span i{}
+.slideadvancedoptions:hover{
+    color: #fff;
+}
+.slideadvancedoptions{
+  cursor: pointer;
+clear: both;
+display: block;
+margin-left: 16px;
+margin-bottom: 25px;
+margin-top: 20px;
+background-color: #00c0ef;
+color: #fff;
+padding: 8px 10px;
+margin-right: 15px;
+border-radius: 3px;
+}
+.alertcontent{
+    min-height: auto;
+}
+.fullselect select{
+    width: 100% !important;
+position: relative !important;
+display: block;
+}
+.imageinput{
+    padding: 0;
+}
+.genderform label{
+     width: 100%;
+}
+.genderform span{
+    margin-right: 5px;
+}
+.genderform input{
+    display: inline-block;
+    margin-right: 20px;
+}
+.submitbtn {
+    margin-left: 0;
+    padding: 7px 20px;
+}
+.custominvoiceprofile{}
+.ulliablack ul li:first-child{
+    border-top: 0;
+}
+.ulliablack ul li a{
+    color: #000;
+}
+.profile-user-img{
+    height: 100px;
+}
+.customattfilterbtn{
+    width: 265px;
+float: right;
+}
+.cfirstbtngroup{
+    border-top-left-radius: 3px !important;
+border-bottom-left-radius: 3px !important;
+}
+.attdatesubmitbtn{
+    margin-top: 25px;
+}
+.printpckgbtn{
+    margin-top: 10px;
+}
+.alertcontent .alert-danger{
+    margin-bottom: 0;
+}
+.checkboxform label{
+    margin-right: 10px;
+}
+.addexpenses label{
+    
+}
+.addexpenses{
+   width: 100%;
+clear: both;
+}
+
+
+
+.expensesformwrapper{
+    padding: 20px;
+    padding-top: 0;
+}
+.expensesformwrapper form{box-shadow: 0px 0px 0px !important;}
+.addexpenses{
+    overflow: hidden;
+    margin-top: 15px;
+    width: 100%;
+}
+.addexpenses label{
+    margin-bottom: 15px;
+}
+.addexpenses ul{}
+.addexpenses ul li{
+    margin-bottom: 10px;
+    overflow: hidden;
+    padding-bottom: 10px;
+}
+.addexpenses ul li label{
+    
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.addexpenses ul li input{}
+.defaultprimary{
+  
+}
+.addexpensesform label{
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.mainheadinglabel{
+    margin-bottom: 10px !important;
+    margin-top: 10px;
+}
+.main_hds{
+ background-color: #eaeaea;
+ padding: 15px;
+ border-bottom: 1px solid #e4e4e4;
+ margin-top: 0;
+ 
+}
+.addexpenses_1{
+    border: 1px solid #00a65a;
+margin-top: 15px;
+margin-right: 15px;
+padding-left: 0;
+padding-right: 0;
+width: 100%;
+margin-bottom: 20px;
+}
+.mainheadinglabel{
+    width: 100%;
+
+background-color: #00a65a;
+
+color: #fff;
+
+font-size: 18px !important;
+
+padding-top: 7px;
+
+padding-bottom: 7px;
+}
+#expenseadd{
+    float: right;
+margin-right: 15px;
+margin-bottom: 10px;
+}
+.dateselectorforexpense{
+    padding-left: 0;
+}
+#addexpensesli{
+    padding-left: 0;
+}
+.customnopaddleft12{
+    padding-left: 0;
+}
+.filterdateexpbtn{
+    margin-top: 23px;
+margin-left: 0px;
+}
+.attformsumb{
+    margin-top: 23px;
+}
+.checkboxsett label{
+    margin-right: 10px;
+}
+.startfilter{}
+.startfilter label{
+    display: inline-block;
+}
+.startfilter input{
+    display: inline-block;
+width: 200px;
+margin-left: 10px;
+}
+.profitlossfilter{
+    margin-bottom: 20px;
+}
+.profitlossfilterbtn button{
+    margin-top: 0;
+
+margin-left: 0px;
+
+padding: 6px 20px;
+}
+.profitlossfilterbtn{
+    
+}
+.dataTable .modal-footer a{
+    color: #fff;
+}
+.modal-body{
+    overflow: hidden;
+}
+.fullselect{
+    width: 100% !important;
+}
+
+.fullselect select{
+    width: 100% !important;
+}
+
+.fullselect .select{
+    width: 100% !important;
+}
+.fullselect .select2{
+    width: 100% !important;
+}
+.genderardoptionform span{
+    margin-left: 25px;
+    margin-right: 10px;
+}
+.btn{
+    font-size: 12px;
+}
+.custompiechart{
+    width: 200px;
+    margin: 0 auto;
+/*    min-height: 209px;*/
+    padding-top: 0px;
+}
+.chartfilters{
+    overflow: hidden;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.filterchartcustombtn{
+    height: 34px;
+margin-left: -10px;
+}
+.headlabels p{
+    margin-bottom: 0px;
+}
+.graphlegends{
+        margin-left: 20px;
+    padding-bottom: 20px;
+    margin-top: 30px;
+    text-align: center;
+}
+.singlegend{
+    display: inline-block;
+    width: 120px;
+}
+.singlegend span{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 15px;
+    font-weight: 600;
+    font-size: 16px;
+}
+.legcolorred{
+    background-color: #f56954 !important;
+}
+.legcolor{
+        width: 20px;
+    height: 20px;
+    background-color: #00a65a;
+    display: inline-block;
+}
+.memimg1{
+   background-size: cover;
+padding-top: 0% ;
+border-radius: 50%;
+height: 50px;
+width: 50px;
+}
+.memimg1:hover{
+    -ms-transform: scale(1.9); /* IE 9 */
+    -webkit-transform: scale(1.9); /* Safari 3-8 */
+    transform: scale(1.9); 
+}
+.customactionmenuitems a{
+    width: 100%;
+}
+.profitlossfilterbtninline button{
+    margin-top: 6px;
+height: 34px;
+}
+.profitlossfilterbtninline{
+    display: inline-block;
+}
+.profitlosstable th{
+    font-size: 16px;
+    font-weight:bold;
+}
+.subexpenses{
+    padding-left: 30px !important;
+}
+.marginrightbold{
+    padding-left: 25px !important;
+}
+#calendar .datepicker-inline{
+    display: none !important;
+}
+#calendar .fc-toolbar button{
+    display: none;
+}
+/*
+.main-sidebar{
+    background-color: #f9fafc !important;
+    border-right: 1px solid #d2d6de !important;
+    color: #333 !important;
+}*/
+.capitalizeinput{
+    text-transform: capitalize;
+}
+.customrgroup label{
+        margin-right: 30px;
+}
+.smsvalidation{
+    display: none;
+}
+.smssuccess{
+    display: none;
+}
+.customavailablessmsspan{
+    font-size: 16px;
+}
+.smslabeltext{
+    margin-right: 10px;
+margin-top: 2px;
+font-size: 15px;
+font-weight: 400;
+}
+.smsmp{
+    margin-top: 10px;
+}
+body .loading-overlay{
+    z-index: 99999 !important;
+}
+/*
+.loaderimage{
+    background: url('../img/spinner2.gif');
+
+width: 500px;
+
+height: 156px;
+}*/
+
+
+
+.activespan{
+    width: 10px;
+height: 10px;
+background-color: #00a65a;
+border-radius: 50%;
+display: inline-block;
+float: left;
+margin-top: 6px;
+margin-right: 10px;
+}
+.deactivespan{
+    background-color: #dd4b39;
+}
+.activedivname a{
+    display: inline-block;
+float: left;
+}
+.detailspan{
+    float: none;
+}
+
+.logheader{
+    display: inline-block;
+float: left;
+}
+.logfilter{
+    display: inline-block;
+float: right;
+width: 300px;
+text-align: right;
+padding-right: 12px;
+}
+.logbody{
+    clear: both;
+}
+.logfilter label{
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 7px;
+}
+.logfilter input{
+    width: 150px;
+    display: inline-block;
+    vertical-align: top;
+}
+.logfilter button{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 0;
+    margin-right: 0;
+}
+.textcenter{
+    text-align: center;
+}
+.clearall{
+    
+}
+.minactionwidth{
+    min-width: 110px;
+}
+.custompadding_align{
+}
+.custompadding_align #searchmembersubmit{
+    font-size: 14px;
+    width: 270px;
+}
+.custompadding_align .box-footer{
+    padding: 15px 10px;
+}
+.custompadding_align .box-danger{
+/*    overflow: hidden;*/
+}
+#tablesearchshowhide{
+    display: none;
+}
+.clear{
+    clear: both;
+}
+.treeview-menu .treeview{
+    padding-left: 24px;
+}
+.tab-content{
+    overflow: hidden;
+}
+
+/* pagination and button styling of export extension start */
+
+.dt-buttons{
+    margin-bottom: 20px;
+}
+.dt-buttons button:hover{
+    background-color: #e7e7e7 !important;
+border: 1px solid #adadad !important;
+}
+.dt-buttons button{
+    background-image: inherit !important;
+background-color: #f4f4f4 !important;
+border-color: #ddd !important;
+color: #444;
+border-radius: 0;
+}
+.dataTables_filter input{
+    border: 1px solid #ddd;
+padding: 5px 10px;
+}
+.dataTables_paginate{}
+
+.dataTables_paginate .next{
+    border: 1px solid #ddd !important;
+}
+.dataTables_paginate .previous{
+    border: 1px solid #ddd !important;
+}
+.dataTables_paginate .paginate_button.current{
+    background-color: #337ab7 !important;
+
+border-color: #337ab7 !important;
+
+color: #fff !important;
+
+background-image: inherit !important;
+}
+.dataTables_paginate .paginate_button{
+    margin-left: 0 !important;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover{
+background-color: #eee !important;
+border-color: #ddd !important;
+    background: linear-gradient(to bottom, #eee 0%, #eee 100%);
+    color: #337ab7 !important;
+    
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button{
+    background-color: transparent!important;
+border-color: #eee !important;
+ 
+    border: 1px solid #ddd !important;
+    color: #666;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button:focus{
+background-color: #eee;
+
+border-color: #ddd;
+    
+}
+.dataTables_paginate .paginate_button.current{
+color: #fff !important;
+background-color: #337ab7 !important;
+border-color: #337ab7 !important;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button.current, .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
+    color: #fff !important;
+    background-color: #337ab7 !important;
+border-color: #337ab7 !important;
+    
+}
+.next:hover{
+background-color: #eee !important;
+border-color: #ddd !important;
+    background: linear-gradient(to bottom, #eee 0%, #eee 100%);
+    color: #337ab7 !important;
+}
+.next{
+    background: #fafafa !important;
+    color: #666 !important;
+    border: 1px solid #ddd;
+    
+}
+div.dt-buttons {
+
+    position: relative;
+    clear: both;
+    margin-top: 10px;
+
+}
+/* pagination and button styling of export extension end */
+
+.trainer_details{
+    display: none;
+}
+.submitbtnup{
+	margin: 0 !important;
+}
+.idset{
+	width: 5% !important;
+}
+.memimg{
+	width: 7% !important;
+}
+.activedivname{
+	width: 10% !important;
+}
+.feesetup{
+	width: 7% !important;
+}
+.feedatesetup{
+	width: 10% !important;
+}
+.box-body{	
+}
+.att_status_succ{
+	color: #00a65a;
+	text-align: center !important;
+} 
+.att_status_fail{
+	color: #dd4b39;
+	text-align: center !important;
+}
+.bodycomposition input{
+    border: 0;
+    outline: 0;
+	padding: 0;
+    background: transparent;
+    border-bottom: 1px solid #ddd;
+    width: 100%;
+}
+.box-header.with-border {
+    text-align: center;
+}
+.customsettingsofbody{
+    text-align: center;
+    font-weight: bolder;
+    color: #000;
+    font-size: 16px;	
+}
+.managebody_composition{
+	margin-top: 20px;
+}
+
+.setcustompages td{
+	text-align: center !important;
+}
+.setcustompages{
+overflow-x: auto;
+/*width: 1362px;	*/
+}
+
+.setcustompagesup td{
+	text-align: center !important;
+}
+.setcustompagesup{
+overflow-x: auto;
+/*width: 1362px;	*/
+}
+
+.setratiomeasure{
+	text-align: center !important;
+    font-size: 16px !important;
+}
+.custombox_titleset{
+	margin-bottom: 20px !important;
+	font-size: 18px;
+	color: #000;
+	font-weight: bolder;
+	text-align: center !important;
+}
+.customsetupbox_title{
+	margin-bottom: 20px !important;
+	font-size: 16px;
+	color: #000;
+	font-weight: bolder;
+}
+.datepicker-months{
+	border: 1px solid #3c8dbc;
+}
+/*
+.setcustompages th{
+	text-align: center !important;
+}*/
+/*
+.desktoptabupgarde{
+	padding: 0 !important;
+}*/
